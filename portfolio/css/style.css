@@ -545,10 +545,10 @@ section {
   .home .content span {
     font-size: 2.5rem;
   }
-  .contact .row form .inputBox input {
+/*   .contact .row form .inputBox input {
     width: 100%;
     margin-bottom: 1rem;
-  }
+  } */
 }
 
 @media (max-width: 450px) {
